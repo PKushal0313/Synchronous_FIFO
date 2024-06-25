@@ -1,0 +1,5 @@
+var g_db_data = [
+{dummy:0},
+{name:'cvg_grp',f:1,type:6,id:172,tb:'19',h:'19',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],hdlPath:'/pkg/func_covg',parent:'169'},
+{name:'cvg_grp',f:1,type:6,id:344,tb:'19',h:'19',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],hdlPath:'work.pkg::func_covg',parent:'341'}];
+processConsCovergroupsData(g_db_data);

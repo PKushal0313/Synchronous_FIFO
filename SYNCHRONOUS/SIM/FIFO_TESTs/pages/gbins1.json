@@ -1,0 +1,26 @@
+var g_data = {
+c185:[4,'coverpoint_wr_enb',[],,'184',2,1,'\\/pkg::func_covg::cvg_grp ','169','/pkg/func_covg',[[],[0,'1','24',,'wr_toggle_0to1'],[0,'1','21',,'wr_toggle_1to0']],[]],
+c186:[4,'coverpoint_rd_enb',[],,'184',2,1,'\\/pkg::func_covg::cvg_grp ','169','/pkg/func_covg',[[],[0,'1','9',,'rd_toggle_0to1'],[0,'1','2',,'rd_toggle_1to0']],[]],
+c187:[4,'coverpoint_wr_data',[],,'184',2,1,'\\/pkg::func_covg::cvg_grp ','169','/pkg/func_covg',[[],[0,'1','91',,'range[0]'],[0,'1','38',,'range[1]'],[0,'1','25',,'range[2]']],[]],
+c188:[4,'coverpoint_rd_data',[],,'184',2,1,'\\/pkg::func_covg::cvg_grp ','169','/pkg/func_covg',[[],[0,'1','77',,'range[0]'],[0,'1','40',,'range[1]'],[0,'1','24',,'range[2]']],[]],
+c189:[4,'coverpoint_full',[],,'184',2,1,'\\/pkg::func_covg::cvg_grp ','169','/pkg/func_covg',[[],[0,'1','5',,'full_toggle[0=>1=>0]']],[]],
+c190:[4,'coverpoint_empty',[],,'184',2,1,'\\/pkg::func_covg::cvg_grp ','169','/pkg/func_covg',[[],[0,'1','22',,'empty_toggle[0=>1=>0]']],[]],
+c191:[4,'coverpoint_half',[],,'184',2,1,'\\/pkg::func_covg::cvg_grp ','169','/pkg/func_covg',[[],[0,'1','13',,'half_toggle[0=>1=>0]']],[]],
+c192:[4,'coverpoint_overflow',[],,'184',2,1,'\\/pkg::func_covg::cvg_grp ','169','/pkg/func_covg',[[],[0,'1','5',,'overflow_toggle[0=>1=>0]']],[]],
+c193:[4,'coverpoint_underflow',[],,'184',2,1,'\\/pkg::func_covg::cvg_grp ','169','/pkg/func_covg',[[],[0,'1','14',,'underflow_toggle[0=>1=>0]']],[]],
+c194:[4,'coverpoint_reset_check',[],,'184',2,1,'\\/pkg::func_covg::cvg_grp ','169','/pkg/func_covg',[[],[0,'1','17',,'rst_bin']],[]],
+c195:[4,'coverpoint_back2back',[],,'184',2,1,'\\/pkg::func_covg::cvg_grp ','169','/pkg/func_covg',[[],[0,'1','1',,'bck2bck_wr'],[0,'1','114',,'bck2bck_w'],[0,'1','90',,'bck2bck_r']],[]],
+c357:[4,'coverpoint_wr_enb',[],,'356',2,1,'\\/pkg::func_covg::cvg_grp ','341','work.pkg::func_covg',[[],[0,'1','24',,'wr_toggle_0to1'],[0,'1','21',,'wr_toggle_1to0']],[]],
+c358:[4,'coverpoint_rd_enb',[],,'356',2,1,'\\/pkg::func_covg::cvg_grp ','341','work.pkg::func_covg',[[],[0,'1','9',,'rd_toggle_0to1'],[0,'1','2',,'rd_toggle_1to0']],[]],
+c359:[4,'coverpoint_wr_data',[],,'356',2,1,'\\/pkg::func_covg::cvg_grp ','341','work.pkg::func_covg',[[],[0,'1','91',,'range[0]'],[0,'1','38',,'range[1]'],[0,'1','25',,'range[2]']],[]],
+c360:[4,'coverpoint_rd_data',[],,'356',2,1,'\\/pkg::func_covg::cvg_grp ','341','work.pkg::func_covg',[[],[0,'1','77',,'range[0]'],[0,'1','40',,'range[1]'],[0,'1','24',,'range[2]']],[]],
+c361:[4,'coverpoint_full',[],,'356',2,1,'\\/pkg::func_covg::cvg_grp ','341','work.pkg::func_covg',[[],[0,'1','5',,'full_toggle[0=>1=>0]']],[]],
+c362:[4,'coverpoint_empty',[],,'356',2,1,'\\/pkg::func_covg::cvg_grp ','341','work.pkg::func_covg',[[],[0,'1','22',,'empty_toggle[0=>1=>0]']],[]],
+c363:[4,'coverpoint_half',[],,'356',2,1,'\\/pkg::func_covg::cvg_grp ','341','work.pkg::func_covg',[[],[0,'1','13',,'half_toggle[0=>1=>0]']],[]],
+c364:[4,'coverpoint_overflow',[],,'356',2,1,'\\/pkg::func_covg::cvg_grp ','341','work.pkg::func_covg',[[],[0,'1','5',,'overflow_toggle[0=>1=>0]']],[]],
+c365:[4,'coverpoint_underflow',[],,'356',2,1,'\\/pkg::func_covg::cvg_grp ','341','work.pkg::func_covg',[[],[0,'1','14',,'underflow_toggle[0=>1=>0]']],[]],
+c366:[4,'coverpoint_reset_check',[],,'356',2,1,'\\/pkg::func_covg::cvg_grp ','341','work.pkg::func_covg',[[],[0,'1','17',,'rst_bin']],[]],
+c367:[4,'coverpoint_back2back',[],,'356',2,1,'\\/pkg::func_covg::cvg_grp ','341','work.pkg::func_covg',[[],[0,'1','1',,'bck2bck_wr'],[0,'1','114',,'bck2bck_w'],[0,'1','90',,'bck2bck_r']],[]],
+dummyEnd:0
+};
+processCovergroupsData(g_data);
