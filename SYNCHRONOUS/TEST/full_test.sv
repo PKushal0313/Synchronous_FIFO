@@ -1,7 +1,9 @@
 //writing into entire fifo and then reading from fifo
 //full check 
 //empty check 
-//underflow check 
+//underflow check
+//This test is done
+
 class full_empty_test extends generator;
 	
 	int num_trans = no_transaction;
